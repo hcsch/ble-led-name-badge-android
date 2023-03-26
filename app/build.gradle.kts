@@ -39,5 +39,5 @@ dependencies {
 
     testImplementation("junit:junit:4.12")
     testImplementation("com.nhaarman:mockito-kotlin-kt1.1:1.5.0")
-    testImplementation("org.amshove.kluent:kluent:1.31")
+    testImplementation("org.amshove.kluent:kluent:1.72")
 }
