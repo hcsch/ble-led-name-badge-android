@@ -10,7 +10,6 @@ repositories {
 
 android {
     compileSdk = 27
-    buildToolsVersion = "27.0.3"
     defaultConfig {
         applicationId = "com.nilhcem.blenamebadge"
         minSdk = 18
