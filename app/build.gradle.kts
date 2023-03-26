@@ -35,7 +35,7 @@ dependencies {
 
     implementation("com.jakewharton.timber:timber:4.6.0")
 
-    implementation("no.nordicsemi.android.support.v18:scanner:1.0.0")
+    implementation("no.nordicsemi.android.support.v18:scanner:1.5.1")
 
     testImplementation("junit:junit:4.12")
     testImplementation("com.nhaarman:mockito-kotlin-kt1.1:1.5.0")
