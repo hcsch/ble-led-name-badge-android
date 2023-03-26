@@ -9,11 +9,11 @@ repositories {
 }
 
 android {
-    compileSdk = 27
+    compileSdk = 28
     defaultConfig {
         applicationId = "com.nilhcem.blenamebadge"
         minSdk = 18
-        targetSdk = 27
+        targetSdk = 28
         versionCode = 1
         versionName = "1.0"
     }
