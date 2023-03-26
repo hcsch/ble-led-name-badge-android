@@ -1,6 +1,6 @@
 plugins {
-    id("com.android.application") version("3.0.1")
-    kotlin("android") version("1.2.10")
+    id("com.android.application") version("7.3.0")
+    kotlin("android") version("1.8.0")
 }
 
 repositories {
@@ -27,8 +27,6 @@ android {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jre7:1.2.10")
-
     implementation("com.android.support:appcompat-v7:27.0.2")
     implementation("com.android.support.constraint:constraint-layout:1.0.2")
 
