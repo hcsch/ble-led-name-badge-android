@@ -9,12 +9,12 @@ repositories {
 }
 
 android {
-    compileSdkVersion(27)
-    buildToolsVersion("27.0.3")
+    compileSdk = 27
+    buildToolsVersion = "27.0.3"
     defaultConfig {
         applicationId = "com.nilhcem.blenamebadge"
-        minSdkVersion(18)
-        targetSdkVersion(27)
+        minSdk = 18
+        targetSdk = 27
         versionCode = 1
         versionName = "1.0"
     }
